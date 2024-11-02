@@ -6,7 +6,7 @@
 
 - **npm run add-one** - виконує код із файлу src/scripts/addOneContact.js
 
-- **npm run count** - виконує код із файлу src/- scripts/countContacts.js
+- **npm run count** - виконує код із файлу src/scripts/countContacts.js
 
 - **npm run remove-last** - виконує код із файлу - src/scripts/removeLastContact.js
 
